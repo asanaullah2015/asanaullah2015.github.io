@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Hello World
+title: About
 ---
 
-This website is currently under construction. It is incomplete and the below filler text is expected.
+Postdoctoral Scholar  
+Department of Computer Science  
+University of Central Florida
 
-This is a test index file.
+# Computer Science 
 
-# Here is a header
+# Computational Biology
 
-Here is some text under the head
-
-## A subheader
+This website is currently under construction. 
