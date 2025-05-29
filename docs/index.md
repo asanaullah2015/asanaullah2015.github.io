@@ -11,4 +11,3 @@ University of Central Florida
 
 # Computational Biology
 
-This website is currently under construction. 
